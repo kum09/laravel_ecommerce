@@ -43,7 +43,7 @@
                         <i class="bi bi-envelope align-middle me-2"></i> support@themesbrand.com
                     </div>
                 </div>
-            </div>
+            </div> 
             <div class="col-md-4 col-3">
                 <div class="d-flex align-items-center justify-content-end gap-3 fs-14">
                     <div class="text-reset fw-normal d-none d-lg-block">
